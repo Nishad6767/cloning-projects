@@ -1,0 +1,394 @@
+.header{
+    background-color: #202125;
+width: 100%;
+height: 90px;
+display: flex;
+padding: 1px;
+box-sizing: border-box;
+}
+
+body{
+    margin: 0; 
+    
+}
+.center-desktop{
+    
+    padding-top: 10px;
+    padding-left: 56px;
+}
+.cname{
+    text-decoration: none;
+     font-family: "Montserrat", Arial;
+        height: 60px;
+        display:inline-block;
+        background-color: transparent;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 8px;
+        margin-inline-end: 8px;
+        padding: 10px 30px;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 400;
+}
+.cname:hover{color: #cae962;}
+
+
+.backimg{
+    background-image: url(./images/zoro-bg.jpg);
+    height: 530px;
+    background-size: cover;
+    position: relative;
+} 
+.logo{
+    width: 48%;
+
+}
+.logoo{
+    height: 60px;
+}
+.log{
+    padding-top: 90px;
+    margin-left: 100px;
+}
+    
+.img{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    right: 0;
+    bottom:0;
+}
+.sword{
+    width:100%;
+    height: auto;
+position: absolute;
+padding-top: 125px;
+}
+.searchkey{
+    height: 50px;
+    font-weight: 400px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 70px;
+    font-size: 16px;
+    border: none;
+    border-color: #fff;
+    width: 450px;
+    margin-left: 150px;
+}
+.fa{
+    font-size: 20px;
+    line-height: 50px;
+    color: #111;
+    padding-top: 14px;
+}
+.button{
+    height: 50px;
+    cursor: pointer;
+    width: 50px;
+    background-color: #cae962;
+    border-radius: 30px;
+    float: right;
+    text-align: center;   
+}
+.searchlogo{
+    float: left;
+    padding-top: 70px;
+    padding-left: 10px;
+}
+.key{
+    float: left;
+}
+
+.text{
+    text-decoration: none;
+    font-size: 16px;
+    color: #6c757d;
+    background-color: transparent;
+    cursor: pointer;
+    margin: 0 6px 6px 0;
+    max-width: 200px;
+    overflow: hidden;
+}
+
+.searchcontent{
+    width: 100%;
+    height: 132px;
+}
+.hashtag{
+    width: 30%;
+    height: 100px;
+    padding-left: 150px;
+}
+.topsearch{
+    font-family: "Montserrat", Arial;
+    color: #fff;
+}
+.body{
+    width: 100%;
+    height: 1180px;
+    background-color: #202125;
+}
+.container2{
+    max-width: 1200px;
+    width: 100%;
+    height: 1600px;
+    margin-left: 130px;
+    margin-top: -17px;
+}
+.container{
+    width: 100%;
+    height: 2293px;
+    background-color: #202125;
+}
+.actionbutton{
+    width: 1244px;
+    height: 60px;
+    background-color: #cae962;
+    border-radius: 0 0 30px 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    cursor: pointer;
+    padding-top: 18px;
+}
+.view{
+    font-weight: 0;
+    border-radius: 0;
+    font-size: 1.25rem;
+}
+.fas{
+    font-size: 1rem;
+}
+.sharebutton{
+    width: 1241px;
+    height: 75px;
+    border-radius: 10px;
+    background-color: #121315;
+    margin-bottom: 50px;
+}
+.zooro{
+    font-weight: 600;
+    font-size: 14px;
+    color: #cae962;
+    font-family: "Montserrat", Arial;
+}
+.zoroshare{
+    width: 108.5px;
+    height: 45px;
+    font-size: 15px;
+    display: block;
+     padding-left: 18px;
+    margin-left: 10px;
+    padding-top: 10px; 
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: #cae962;
+    float: left;
+    margin-top: 10px;
+    
+}
+.para{
+    font-family: "Montserrat", Arial;
+    font-size: 14px;
+    color: #ccc;
+}
+.facebook{
+    width: 117px;
+    height: 46px;
+    background-color: rgb(59, 89, 152);
+    float: left;
+    border-radius: 14px;
+    margin-top: 13px;
+    cursor: pointer;
+    margin-right: 11px;
+    font-size: 15.4px;
+
+}
+
+.fb{
+    float: right;
+    padding-right: 18px;
+    color: #fff;
+
+}
+.at-iconfb{
+    margin-top: 7px;
+}
+.twitter{
+    width: 117px;
+    height: 46px;
+    background-color: rgb( 29, 161, 242);
+    float: left;
+    border-radius: 14px;
+    margin-top: 13px;
+    cursor: pointer;
+    margin-right: 11px;
+     font-size: 15.4px;
+}
+.twit{
+    float: right;
+    padding-right: 18px;
+    color: #fff;
+    margin-right: 10px;
+
+}
+.at-icontwit{
+    margin-top: 7px;
+}
+.reddit{
+    width: 117px;
+    height: 46px;
+    background-color: rgb(255, 87, 0);
+    float: left;
+    border-radius: 14px;
+    margin-top: 13px;
+    cursor: pointer;
+    margin-right: 11px;
+     font-size: 15.4px;
+    
+    
+
+}
+.at-iconred{
+    margin-top: 8px;
+}
+.red{
+    float: right;
+    padding-right: 18px;
+    color: #fff;
+    margin-right: 10px;
+
+}
+.telegram{
+     width: 117px;
+    height: 46px;
+    background-color: rgb( 0, 136, 204);
+    float: left;
+    border-radius: 14px;
+    margin-top: 13px;
+    cursor: pointer;
+    margin-right: 11px;
+     font-size: 15.4px;
+}
+.at-icontele{
+    margin-top: 7px;
+}
+.tele{
+    float: right;
+    padding-right: 18px;
+    color: #fff;
+}
+.more{
+      width: 124px;
+    height: 46px;
+    background-color: rgb( 255, 101, 80);
+    float: left;
+    border-radius: 14px;
+    margin-top: 13px;
+    cursor: pointer;
+    margin-right: 11px;
+    font-size: 11.4px;
+     font-size: 15.4px;
+padding-top: 1px;
+}
+.at-more{
+    margin-top: 7px;
+}
+.moree{
+     float: right;
+    padding-right: 10px;
+    color: #fff;
+}
+.leftside{
+    width: 60%;
+    height: 1420px;
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    float: left;
+}
+
+
+
+.h{
+    font-size: 1.8em;
+    font-weight: 600;
+    margin: 0 0 1em;
+    color: #fff;
+    line-height: 1.4em;
+}
+.p{
+    color: #ccc;
+    font-family: "Montserrat", Arial ;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    line-height: 1.4em;
+}
+.list{
+    color: #ccc;
+    font-family: "Montserrat", Arial ;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    line-height: 1.6em;
+    list-style-type: disc;
+    
+}
+.rightside{
+    float: right;
+    width: 400px;
+    height: 1420px;
+    margin-bottom: 1em;
+}
+.hh{
+    margin-top: 2px;
+    font-size: 1.8em;
+    font-weight: 600;
+    margin: 0 0 1em;
+    color: #fff;
+    line-height: 1.4em;
+}
+.connectinglist{
+    width: 400px;
+    height: 189px;
+}
+.content{
+    width: 100%;
+    padding: 20px;
+    border-radius: 1rem;
+    font-size: 12px;
+    line-height: 1.4;
+    background: rgba(255, 255, 255, 0.059);
+    margin-bottom: 0.5rem;
+    background-image: initial;
+}
+.comment{
+    font-size: 14px;
+    color: #ccc;
+}
+.dblock{
+    width: 400px;
+    height: 34px;
+}
+.btn{
+    
+    font-size: 12px;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    text-align: center;
+    width: 100%;
+    background-color:  rgba(255, 255, 255, 0.059);
+    color: #ccc;
+    border-radius: 0.5em;
+    margin-left: 24px;
+
+}
+.footer{
+    width: 1325px;
+    float: left;
+    padding-left: 137px;
+    background-color: #202125;
+    color: #ccc;
+    padding-top: 110px;
+
+}

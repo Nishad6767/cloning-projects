@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+nav{
+    width: 100%;
+
+    height: 90px;
+    display: flex;
+    background-color: #5656fb;
+
+}
+.logo{
+    width: 20%;
+    height: 90px;
+
+}
+.logoo{
+    padding-left: 100px;
+    padding-top: 24px;
+
+
+}
+.navbar{
+    width: 60%;
+    height: 90px;
+    display: flex;
+}
+.navitem{
+    width: 100%;
+}
+..log{
+ width: 20%;
+ height: 90px;
+}
+.logo-3oeRIY{
+    color: #fff;
+}
+.login{
+    margin-top: 30px;
+
+}
+.button{
+    background-color: #fff;
+    width: 80px;
+    height: 38px;
+    border-radius: 2em;
+    border-style: none;
+}
+.item{
+    width: 13%;
+    color: #fff;
+    
+}
+.nav{
+  display: flex;
+    list-style: none;
+    width: 100%;
+    padding-top: 37px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 60px;
+    font-family: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    cursor: pointer;
+}
+.background{
+    background-color: #5656fb;
+    width: 100%;
+    height: 800px;
+}
+.backimgs{
+    width: 100%;
+    height: 800px;
+}
+.mid{
+    width: 100%;
+    height: 800px;
+}
+.left{
+    width: 100%;
+    height: 800px;
+
+}
+.right{
+    width: 100%;
+    height: 800px;
+}
